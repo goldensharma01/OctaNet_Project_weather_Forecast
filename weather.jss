@@ -1,6 +1,6 @@
 
 
-// Created by Vinay Yadav 
+// Created by Golden Sharma
 
 let weather = {
     "apikey": "2f0ad3953411bdfb6c2964fa864b71d0",
